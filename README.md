@@ -2,6 +2,13 @@
 
 Software developer passionate about UX, based in the Netherlands.
 
+## 📬 Get in touch
+
+- Web: [filipzd.me][1]
+- LinkedIn: [linkedin.com/in/filipzd][2]
+- Behance: [https://www.behance.net/filipzd][3]
+
+
 <!--
 **phila9/phila9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,9 +4,9 @@ Software developer passionate about UX, based in the Netherlands.
 
 ## 📬 Get in touch
 
-- Web: [filipzd.me][1]
-- LinkedIn: [linkedin.com/in/filipzd][2]
-- Behance: [https://www.behance.net/filipzd][3]
+- Web: [filipzd.me]
+- LinkedIn: [linkedin.com/in/filipzd]
+- Behance: [https://www.behance.net/filipzd]
 
 
 <!--

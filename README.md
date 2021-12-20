@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hey! 👋🏼 I'm Filip
+
+Software developer passionate about UX, based in the Netherlands.
 
 <!--
 **phila9/phila9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

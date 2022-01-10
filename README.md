@@ -18,6 +18,9 @@ Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full s
 I love learning new technologies and frameworks. Right now I'm actively learning [React](https://github.com/facebook/react), and on the side I'm playing around with [SwiftUI](https://github.com/topics/swiftui).
 <br>
 <br>
+In my free time I like to flatter myself as a (drone) photographer/videographer. You can check it on my [IG](https://www.instagram.com/filip.zd/)
+<br>
+<br>
 Consistently working on building my portfolio of projects.
 <br>
 <br>

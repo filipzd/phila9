@@ -35,7 +35,8 @@ Consistently working on building my portfolio of projects.
 <code><img height="20" src="https://avatars.githubusercontent.com/u/210414?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br>
+<br>
 :rocket: Here are some projects that I'm working on:
 - [YouTube clone](https://github.com/phila9/)
 - [SwapToy](https://github.com/phila9/swaptoy)

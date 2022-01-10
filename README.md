@@ -21,6 +21,7 @@ I love learning new technologies and frameworks. Right now I'm actively learning
 Consistently working on building my portfolio of projects.
 <br>
 <br>
+<br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **languages and tools:**  
 

@@ -15,7 +15,7 @@
 Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full stack web developer and a freelance software engineer from the Netherlands.
 <br>
 <br>
-I love learning new technologies and frameworks. Right now I'm actively learning React, and on the side I'm playing around with SwiftUI.
+I love learning new technologies and frameworks. Right now I'm actively learning [React](https://github.com/facebook/react), and on the side I'm playing around with [SwiftUI](https://github.com/topics/swiftui).
 <br>
 <br>
 Consistently working on building my portfolio of projects.

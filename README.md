@@ -9,12 +9,13 @@
 <a href="https://twitter.com/filipzd_">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
+<br>
+<br>
 <br>
 
 Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full stack web developer and a freelance software engineer from the Netherlands.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <!--

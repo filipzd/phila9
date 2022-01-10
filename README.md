@@ -12,7 +12,7 @@
 <br>
 <br>
 
-Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full stack web developer and a freelance software engineer based in the Netherlands.
+Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full stack web developer and a freelance software engineer based in the Netherlands<img height="20" src="https://www.creativefabrica.com/wp-content/uploads/2019/08/Amsterdam-houses.jpg">.
 <br>
 <br>
 I love learning new technologies and frameworks. Right now I'm actively learning [React](https://github.com/facebook/react), and on the side I'm playing around with [SwiftUI](https://github.com/topics/swiftui).

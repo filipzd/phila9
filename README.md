@@ -16,7 +16,6 @@ Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full s
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br>
 **languages and tools:**  
 
 <code><img height="20" src="https://clay-atlas.com/wp-content/uploads/2020/02/html.png"></code>

@@ -40,7 +40,7 @@ Consistently working on building my portfolio of projects.
 <br>
 
 :rocket: Here are some projects that I'm working on:
-- [YouTube clone](https://github.com/phila9/)
+- [YouTube clone](https://github.com/phila9/) (coming soon)
 - [SwapToy](https://github.com/phila9/swaptoy)
 
 <!--

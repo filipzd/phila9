@@ -6,9 +6,9 @@
 <a href="https://www.behance.net/filipzd">
   <img align="left" alt="" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
 </a>
-<a href="https://twitter.com/filipzd_">
+<!-- <a href="https://twitter.com/filipzd_">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <br>
 <br>
 

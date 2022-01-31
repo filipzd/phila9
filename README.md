@@ -12,10 +12,10 @@
 <br>
 <br>
 
-Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught software developer based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
+Hi, I'm [Filip Zdravkovic](https://filipzd.me/), an aspiring self-taught software developer based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
 <br>
 <br>
-I am very passionate about mobile-first development, and cross-platform applications. Currently I am working with [Flutter](https://github.com/flutter) ([& Dart](https://github.com/dart-lang)).
+I am very passionate about mobile-first development, and cross-platform applications. Currently I am working with [Flutter](https://github.com/flutter).
 <br>
 <br>
 I love learning new technologies and frameworks. Beside Flutter, I am further developing myself in [SwiftUI](https://github.com/topics/swiftui) and [Kotlin](https://github.com/Kotlin).

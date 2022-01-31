@@ -12,13 +12,15 @@
 <br>
 <br>
 
-Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught full stack web developer and a freelance software engineer based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
+Hi, i'm [Filip Zdravkovic](https://filipzd.me/), a passionate self-taught software developer based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
 <br>
 <br>
-I love learning new technologies and frameworks. Right now I'm actively learning [React](https://github.com/facebook/react), and on the side I'm playing around with [SwiftUI](https://github.com/topics/swiftui).
+I am very passionate about mobile-first development, and cross-platform applications. Currently I am working with [Flutter](https://github.com/flutter) ([&Dart](https://github.com/dart-lang)).
+<br>
+I love learning new technologies and frameworks. Beside Flutter, I am further developing myself in [SwiftUI](https://github.com/topics/swiftui) and [Kotlin](https://github.com/Kotlin).
 <br>
 <br>
-In my free time I like to flatter myself as a (drone) photographer/videographer. You can check my [IG](https://www.instagram.com/filip.zd/).
+In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/).
 <br>
 <br>
 Consistently working on building my portfolio of projects.

@@ -41,7 +41,7 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 
 :rocket: Here are some projects that I'm working on:
 - [YouTube clone](https://github.com/phila9/) (coming soon)
-- [SwapToy](https://github.com/phila9/swaptoy)
+- [SwapToy](https://swaptoy.herokuapp.com)
 
 <!--
 **phila9/phila9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

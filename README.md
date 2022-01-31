@@ -24,9 +24,6 @@ I love learning new technologies and frameworks. Beside Flutter, I am further de
 In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/).
 <br>
 <br>
-Consistently working on building my portfolio of projects.
-<br>
-<br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **languages and tools:**  

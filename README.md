@@ -12,7 +12,7 @@
 <br>
 <br>
 
-Hi, I'm [Filip Zdravkovic](https://filipzd.me/), an aspiring self-taught software developer based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
+Hi, I'm [Filip Zdravkovic](https://filipzd.me/), an aspiring software developer for [SimplyDelivey(simplydelivery.nl), based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
 <br>
 <br>
 I am very passionate about mobile-first development, and cross-platform applications. Currently I am working with [Flutter](https://github.com/flutter).

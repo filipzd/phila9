@@ -32,13 +32,15 @@ Basic full-stack CRUD web application for renting RV Campers. Made with a team o
 
 ## 🛠️ Languages and Tools
 
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvUudRzNch3GbeS1_0disB5Vrb9d7495wwYS1Dcf1Dja4MDv3Sf1vozGkb5nQHOGwWY4&usqp=CAU"></code>
+<code><img height="20" src="hhttps://logowik.com/content/uploads/images/flutter5786.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/210414?s=200&v=4"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"></code>
 <code><img height="20" src="https://cmm.nl/wp-content/uploads/2021/05/a558b426cb8973523f37bbed94cf0f09.png"></code>

@@ -6,8 +6,7 @@
 <a href="https://www.behance.net/filipzd">
   <img align="left" alt="" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
 </a>
-
-## <br>
+<br>
 <br>
 
 Hi, I'm Filip Zdravkovic, an aspiring software developer, in love with UX/UI design.  

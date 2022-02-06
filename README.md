@@ -1,7 +1,7 @@
-I’m a passionate Software Engineer with deep knowledge mobile ecosystem.  
-I started programming on macOS in 2000 and iOS on 2007. I'm also passionate working in backend environments with Node and JS.  
-Since 2018 I'm leading the Mobile Team at [Immobiliare.it](https://labs.immobiliare.it), the #1 Real Estate company in Italy.  
-I'm in love with simple and good design, in my life I'm a strongly follower of wabi-sabi.
+Hi, I'm Filip Zdravkovic, an aspiring software developer with an eye for good UI design.  
+I'm very passionate about cross-platform software, and iOS and MacOS development.  
+I am working for [SimplyDelivery](https://www.simplydelivery.nl), as a Front-End Developer.  
+I'm currently based in Rotterdam, the Netherlands.
 
 - 🌍 [My Website](https://www.danielemargutti.com)
 - 🐦 [Follow me on Twitter](http://twitter.com/danielemargutti)

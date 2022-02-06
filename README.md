@@ -7,10 +7,10 @@
   <img align="left" alt="" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
 </a>
 
-##<br>
+<br>
 <br>
 
-Hi, I'm Filip Zdravkovic, an aspiring software developer, in love with UX/UI design.  
+## Hi, I'm Filip Zdravkovic, an aspiring software developer, in love with UX/UI design.  
 I'm very passionate about cross-platform software, and iOS and MacOS development.  
 I am working for [SimplyDelivery](https://www.simplydelivery.nl), as Front-End Developer, and I'm currently based in Rotterdam, the Netherlands.
 

@@ -23,7 +23,7 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-## 🛠️ Languages and Tools I'm working with
+## 🛠️ Languages and Tools
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
@@ -35,25 +35,3 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"></code>
 <code><img height="20" src="https://cmm.nl/wp-content/uploads/2021/05/a558b426cb8973523f37bbed94cf0f09.png"></code>
-
-<br>
-<br>
-
-:rocket: Here are some projects that I'm working on:
-- [YouTube clone](https://github.com/phila9/) (coming soon)
-- [SwapToy](https://swaptoy.herokuapp.com)
-
-<!--
-**phila9/phila9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

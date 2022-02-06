@@ -1,3 +1,14 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/filipzd/">
+  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.behance.net/filipzd">
+  <img align="left" alt="" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
+</a>
+<br>
+<br>
+
 Hi, I'm Filip Zdravkovic, an aspiring software developer, in love with UX/UI design.  
 I'm very passionate about cross-platform software, and iOS and MacOS development.  
 I am working for [SimplyDelivery](https://www.simplydelivery.nl), as Front-End Developer, and I'm currently based in Rotterdam, the Netherlands.
@@ -13,22 +24,6 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 - [Follow Me](https://github.com/malcommac)
 
 
-
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://www.linkedin.com/in/filipzd/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.behance.net/filipzd">
-  <img align="left" alt="" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
-</a>
-<br>
-<br>
-Hi, I'm Filip Zdravkovic, an aspiring software developer with an eye for good UI design.<br>
-I'm very passionate about cross-platform software, and iOS and MacOS development.<br>
-Since early 2022 I am working for [SimplyDelivery](https://www.simplydelivery.nl) as a Front-End Developer.<br>
-I'm currently based in Rotterdam, the Netherlands.<br>
-In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/) for some videos.
 <br>
 <br>
 <br>

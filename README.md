@@ -23,7 +23,7 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-## 🚀 Languages and Tools I'm working with
+## 🛠️ Languages and Tools I'm working with
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>

@@ -1,3 +1,20 @@
+I’m a passionate Software Engineer with deep knowledge mobile ecosystem.  
+I started programming on macOS in 2000 and iOS on 2007. I'm also passionate working in backend environments with Node and JS.  
+Since 2018 I'm leading the Mobile Team at [Immobiliare.it](https://labs.immobiliare.it), the #1 Real Estate company in Italy.  
+I'm in love with simple and good design, in my life I'm a strongly follower of wabi-sabi.
+
+- 🌍 [My Website](https://www.danielemargutti.com)
+- 🐦 [Follow me on Twitter](http://twitter.com/danielemargutti)
+
+## ❤️ Support OSs
+You know, maintaing and developing tools consumes resources and time. While I enjoy making them **your support is foundamental to allow me continue its development**.  
+
+- [**Make a donation with PayPal**](https://www.paypal.com/paypalme/danielemargutti/20)
+- [**Become a Sponsor**](https://github.com/sponsors/malcommac)
+- [Follow Me](https://github.com/malcommac)
+
+
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/filipzd/">

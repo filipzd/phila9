@@ -19,7 +19,7 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 
 ## 🚀 My Projects
 
-- [Follow Me](https://github.com/malcommac)
+### [SwapToy](http://swaptoy.herokuapp.com)
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 

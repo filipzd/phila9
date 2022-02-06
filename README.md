@@ -15,19 +15,14 @@ I am working for [SimplyDelivery](https://www.simplydelivery.nl), as Front-End D
 
 In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/) for some videos.
 
-- 🌍 [My Website](https://filipzd.me)
+<!-- - 🌍 [My Website](https://filipzd.me) -->
 
 ## 🚀 My Projects
 
-- [**Make a donation with PayPal**](https://www.paypal.com/paypalme/danielemargutti/20)
-- [**Become a Sponsor**](https://github.com/sponsors/malcommac)
 - [Follow Me](https://github.com/malcommac)
 
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-<br>
-<br>
-<br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **languages and tools:**
 
 

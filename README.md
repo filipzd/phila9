@@ -20,6 +20,7 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 ## 🚀 My Projects
 
 ### [SwapToy](http://swaptoy.herokuapp.com)
+Ending project for coding bootcamp that I built with a team of three developers. It's a subscription based service for exchanging toys as your child grows. **More choices, less money.** You can see my video presentation of the whole webapp [here](https://youtu.be/Jq64hizPQr4?t=753)
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 

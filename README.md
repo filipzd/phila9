@@ -5,11 +5,9 @@ I'm currently based in Rotterdam, the Netherlands.
 
 In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/) for some videos.
 
-- 🌍 [My Website](https://www.danielemargutti.com)
-- 🐦 [Follow me on Twitter](http://twitter.com/danielemargutti)
+- 🌍 [My Website](https://filipzd.me)
 
-## ❤️ Support OSs
-You know, maintaing and developing tools consumes resources and time. While I enjoy making them **your support is foundamental to allow me continue its development**.  
+## 🚀 My Projects
 
 - [**Make a donation with PayPal**](https://www.paypal.com/paypalme/danielemargutti/20)
 - [**Become a Sponsor**](https://github.com/sponsors/malcommac)

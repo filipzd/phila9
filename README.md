@@ -8,10 +8,10 @@
 </a>
 <br>
 <br>
-Hi, I'm Filip Zdravkovic, an aspiring software developer with an eye for good UI design.
-I'm very passionate about cross-platform software, and iOS and MacOS development.
-Since early 2022 I am working for [SimplyDelivery](https://www.simplydelivery.nl) as a Front-End Developer.
-I'm currently based in Rotterdam, the Netherlands.
+Hi, I'm Filip Zdravkovic, an aspiring software developer with an eye for good UI design.<br>
+I'm very passionate about cross-platform software, and iOS and MacOS development.<br>
+Since early 2022 I am working for [SimplyDelivery](https://www.simplydelivery.nl) as a Front-End Developer.<br>
+I'm currently based in Rotterdam, the Netherlands.<br>
 In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/) for some videos.
 <br>
 <br>

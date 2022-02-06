@@ -17,7 +17,7 @@ In my free time I'm into drones and videography. You can check my [IG](https://w
 
 <!-- - 🌍 [My Website](https://filipzd.me) -->
 
-## 🚀 My Projects
+## 🚀 Projects
 
 ### [Edgar]()
 Coming soon...

@@ -6,22 +6,11 @@
 <a href="https://www.behance.net/filipzd">
   <img align="left" alt="" width="22px" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" />
 </a>
-<!-- <a href="https://twitter.com/filipzd_">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
 <br>
 <br>
-
-Hi, I'm [Filip Zdravkovic](https://filipzd.me/), an aspiring software developer for [SimplyDelivery](https://www.simplydelivery.nl), based in the Netherlands <img height="20" src="https://www.pngrepo.com/png/241143/512/netherlands.png">.
-<br>
-<br>
-I am very passionate about mobile-first development, and cross-platform applications. Currently I am working with [Flutter](https://github.com/flutter).
-<br>
-<br>
-I love learning new technologies and frameworks. Beside Flutter, I am further developing myself in [SwiftUI](https://github.com/topics/swiftui) and [Kotlin](https://github.com/Kotlin).
-<br>
-<br>
-In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/).
+##
+Hi, I'm Filip Zdravkovic, an aspiring software developer with an eye for good UI design. I'm very passionate about cross-platform software, and iOS and MacOS development. Since early 2022 I am working for [SimplyDelivery](https://www.simplydelivery.nl) as a Front-End Developer. I'm currently based in Rotterdam, the Netherlands.
+In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/) for some videos.
 <br>
 <br>
 <br>

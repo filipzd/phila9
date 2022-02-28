@@ -52,5 +52,5 @@ Basic full-stack CRUD web application for renting RV Campers. Made with a team o
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"></code>
 
 <code><img height="20" src="https://cmm.nl/wp-content/uploads/2021/05/a558b426cb8973523f37bbed94cf0f09.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180415/cke/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7ce8c973.5658413315237761249535.jpg"></code>
+<code><img height="20" src="https://image.winudf.com/v2/image1/Y29tLmFkb2JlLnNwYXJrbGVyYW5kcm9pZF9pY29uXzE1OTIzNjA2NzBfMDM2/icon.png?w=&fakeurl=1"></code>
 

@@ -9,7 +9,9 @@
 <br>
 <br>
 
-I'm Filip Zdravkovic, a web developer based in Rotterdam, the Netherlands. I love building beautiful interfaces, web apps, and everything in between!
+I'm Filip Zdravkovic, a web developer based in Rotterdam, the Netherlands.
+
+I love building beautiful interfaces, web apps, and everything in between!
 
 <!-- - 🌍 [My Website](https://filipzd.me) -->
 

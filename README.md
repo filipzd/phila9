@@ -13,6 +13,10 @@ I'm Filip Zdravkovic, a web developer based in Rotterdam, the Netherlands.
 
 I love building beautiful interfaces, web apps, and everything in between!
 
+As a web developer, I enjoy bridging the gap between development and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
+
+When I'm not in front of a computer screen, I'm probably traveling, flying my drone or assembling new mechanical keyboard.
+
 <!-- - 🌍 [My Website](https://filipzd.me) -->
 
 ## 🚀 Projects

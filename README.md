@@ -9,11 +9,7 @@
 <br>
 <br>
 
-I'm Filip Zdravkovic, software developer, passionate about UI/UX design.  
-
-I am working at [SimplyDelivery](https://www.simplydelivery.nl) as Front-End Developer. Currently based in Rotterdam, the Netherlands.
-
-In my free time I'm into drones and videography. You can check my [IG](https://www.instagram.com/filip.zd/) for some videos.
+I'm Filip Zdravkovic, a web developer based in Rotterdam, the Netherlands. I love building beautiful interfaces, web apps, and everything in between!
 
 <!-- - 🌍 [My Website](https://filipzd.me) -->
 

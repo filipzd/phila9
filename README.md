@@ -1,4 +1,4 @@
-### Hey there <img src="[https://tenor.com/view/hi-gif-23520343]" width="25px">
+### Hey there 👋
 
 <a href="https://www.linkedin.com/in/filipzd/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

@@ -21,7 +21,7 @@ When I'm not in front of a computer screen, I'm probably traveling, flying my dr
 
 ## 🚀 Projects
 
-### [Edgar]()
+### [Rakia](http://rakia.rocks)
 Coming soon...
 
 ### [SwapToy](http://swaptoy.herokuapp.com)

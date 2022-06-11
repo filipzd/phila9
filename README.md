@@ -1,4 +1,4 @@
-### Hey there 👋
+<!-- ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/filipzd/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -15,11 +15,11 @@ I love building beautiful interfaces, web apps, and everything in between!
 
 As a web developer, I enjoy bridging the gap between development and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
 
-When I'm not in front of a computer screen, I'm probably traveling, flying my drone or assembling new mechanical keyboard.
+When I'm not in front of a computer screen, I'm probably traveling, flying my drone or assembling new mechanical keyboard. -->
 
 <!-- - 🌍 [My Website](https://filipzd.me) -->
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 ### [Rakia](http://rakia.rocks)
 Coming soon...
@@ -28,11 +28,11 @@ Coming soon...
 Ending project for coding bootcamp that I built with a team of three developers. It's a subscription based service for exchanging toys as your child grows. **More choices, less money.** You can see my video presentation of the whole webapp [here](https://youtu.be/Jq64hizPQr4?t=753).
 
 ### [RV Central]()
-Basic full-stack CRUD web application for renting RV Campers. Made with a team of three developers. Exercise project for coding bootcamp.
+Basic full-stack CRUD web application for renting RV Campers. Made with a team of three developers. Exercise project for coding bootcamp. -->
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-## 🛠️ Languages and Tools
+<!-- ## 🛠️ Languages and Tools
 
 
 <code><img height="20" src="https://iconape.com/wp-content/png_logo_vector/flutter.png"></code>
@@ -54,5 +54,5 @@ Basic full-stack CRUD web application for renting RV Campers. Made with a team o
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png"></code>
 
 <code><img height="20" src="https://cmm.nl/wp-content/uploads/2021/05/a558b426cb8973523f37bbed94cf0f09.png"></code>
-<code><img height="20" src="https://image.winudf.com/v2/image1/Y29tLmFkb2JlLnNwYXJrbGVyYW5kcm9pZF9pY29uXzE1OTIzNjA2NzBfMDM2/icon.png?w=&fakeurl=1"></code>
+<code><img height="20" src="https://image.winudf.com/v2/image1/Y29tLmFkb2JlLnNwYXJrbGVyYW5kcm9pZF9pY29uXzE1OTIzNjA2NzBfMDM2/icon.png?w=&fakeurl=1"></code> -->
 

@@ -1,6 +1,6 @@
-<!-- ### Hey there 👋
+### Hey there 👋
 
-<a href="https://www.linkedin.com/in/filipzd/">
+<!-- <a href="https://www.linkedin.com/in/filipzd/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.behance.net/filipzd">
